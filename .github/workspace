@@ -1,0 +1,7 @@
+def hello():
+    print("HEY")
+
+def kick():
+  print("wow")
+
+print("Hello")
